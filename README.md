@@ -1,2 +1,2 @@
 # RockPaperScissorsByKristiqnG
-Simple console game "Rock Papper Scissors"
+Simple console game "Rock Paper Scissors"
